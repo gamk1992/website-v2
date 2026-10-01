@@ -1,4 +1,4 @@
-# Monti Keopi — Cloudflare upload
+# Monti Keopi Website v2
 
 This folder is a finished static site. No build step.
 
